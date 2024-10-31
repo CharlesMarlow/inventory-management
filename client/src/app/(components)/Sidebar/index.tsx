@@ -87,7 +87,7 @@ const Sidebar = () => {
         <h1
           className={` ${
             isSidebarCollapsed ? 'hidden' : 'block'
-          } font-extrabold text-2xl`}
+          } font-extrabold text-lg`}
         >
           CharlesMarlow
         </h1>
